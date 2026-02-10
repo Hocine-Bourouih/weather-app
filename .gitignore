@@ -1,0 +1,4 @@
+weather.db
+__pycache__/
+*.pyc
+etl.log
